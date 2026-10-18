@@ -1,0 +1,12 @@
+nombre = input("Escribe tu nombre: ")
+ciudad = input("Escribe tu ciudad: ")
+edad = int(input("Escribe tu edad: "))
+estatura = float(input("Escribe tu estatura: "))
+
+print("------------------------------")
+print("     FICHA DE USUARIO         ")
+print("------------------------------")
+print(f"Nombre: {nombre}")
+print(f"Ciudad: {ciudad}")
+print(f"Edad: {edad} años")
+print(f"Estatura: {estatura} m")
