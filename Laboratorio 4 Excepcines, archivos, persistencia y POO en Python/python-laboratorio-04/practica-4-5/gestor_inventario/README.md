@@ -5,14 +5,23 @@ Aplicación de consola en Python orientada a objetos con soporte de persistencia
 ## Estructura del Proyecto
 gestor_inventario/
 ├── main.py
+
 ├── producto.py
+
 ├── inventario.py
+
 ├── almacenamiento.py
+
 ├── reportes.py
+
 ├── datos/
+
 │   └── productos.json
+
 ├── reportes/
+
 │   └── inventario.csv
+
 └── README.md
 
 ## Ejecución
